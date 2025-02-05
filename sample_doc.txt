@@ -1,0 +1,5 @@
+Title: How to Deploy a Flask App
+Content:
+1. Install Flask using pip.
+2. Create a simple Flask app.
+3. Deploy using Gunicorn and Nginx.

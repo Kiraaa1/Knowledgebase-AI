@@ -1,0 +1,103 @@
+2. Machine Learning Basics
+Title: 
+Introduction to Machine Learning
+
+Content:
+Machine Learning (ML) is a subset of AI that enables systems to learn from data.
+Types of ML:
+Supervised Learning (e.g., regression, classification)
+Unsupervised Learning (e.g., clustering, PCA)
+Reinforcement Learning (e.g., training AI agents in games)
+Popular ML frameworks:
+TensorFlow
+PyTorch
+Scikit-Learn
+
+3. Fun Fact: Why Do Cats Purr?
+Title: 
+The Science Behind Cat Purring
+
+Content:
+Cats purr for various reasons:
+Happiness: When they feel relaxed or content.
+Healing: The vibration frequency (25-150 Hz) may promote healing.
+Communication: Mother cats purr to comfort kittens.
+Stress Relief: Some cats purr when injured or anxious.
+
+4. The Basics of Quantum Computing
+Title: 
+What is Quantum Computing?
+
+Content:
+Unlike classical computers (which use bits 0/1), quantum computers use qubits, which can exist in superposition (0 and 1 at the same time).
+Entanglement: Qubits can be correlated across vast distances.
+Popular Quantum Algorithms:
+Shor’s Algorithm (for breaking RSA encryption)
+Grover’s Algorithm (for searching unsorted databases)
+
+5. Cooking: How to Make a Perfect Scrambled Egg
+Title: 
+Perfect Scrambled Eggs Recipe
+
+Content:
+Whisk 2 eggs with a pinch of salt and pepper.
+Heat a non-stick pan on low heat and add butter.
+Pour the eggs in and stir slowly with a spatula.
+Remove from heat while slightly undercooked, as residual heat will finish cooking.
+Optional: Add cheese, herbs, or cream for extra flavor.
+
+6. How Does a Bicycle Work?
+Title: 
+The Mechanics of a Bicycle
+
+Content:
+A bicycle converts human energy into movement via a chain and gear system.
+Physics behind cycling:
+Balance: Gyroscopic forces and body adjustments keep it upright.
+Braking: Uses friction to slow down.
+Gears: Help adjust resistance and speed.
+Fun fact: The first bicycle was called the "Draisine" in 1817.
+
+7. The History of the Internet
+Title: 
+How the Internet Evolved
+
+Content:
+1969: ARPANET was created (the predecessor of the Internet).
+1989: Tim Berners-Lee invented the World Wide Web (WWW).
+1990s: The rise of email, search engines, and online shopping.
+2000s: Social media platforms (Facebook, Twitter, YouTube) emerged.
+2020s: AI-driven chatbots, IoT, and Web3 technologies expand the web.
+
+8. The Basics of Personal Finance
+Title: 
+How to Manage Your Money Wisely
+
+Content:
+Budgeting: Follow the 50/30/20 rule (50% needs, 30% wants, 20% savings).
+Investing: Consider stocks, bonds, and index funds for long-term growth.
+Emergency Fund: Save 3-6 months of living expenses.
+Debt Management: Prioritize high-interest debts first.
+Retirement Planning: Use 401(k) or IRAs to grow savings.
+
+9. Space Exploration: Why is Mars Red?
+Title: 
+The Red Planet Explained
+
+Content:
+Mars is red because of iron oxide (rust) on its surface.
+It has the largest volcano (Olympus Mons) in the solar system.
+NASA’s rovers (Curiosity, Perseverance) are exploring Mars for signs of life and water.
+Scientists are planning human missions to Mars in the 2030s.
+
+10. Fun Fact: Why Do We Dream?
+Title: 
+The Science of Dreams
+
+Content:
+Dreams occur mostly during REM sleep.
+Theories on why we dream:
+Memory processing: Helps the brain organize memories.
+Emotional regulation: Dreams may process feelings.
+Random brain activity: The "activation-synthesis" hypothesis suggests dreams are just the brain interpreting random signals.
+Fun Fact: People forget 95% of their dreams within minutes of waking up!
