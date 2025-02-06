@@ -18,8 +18,15 @@ def retrieve_relevant_chunks(query, top_k=2):
 
 def ask_llm(question):
     context = retrieve_relevant_chunks(question)
-    prompt = f"Using the following documentation, answer the question:\n\n{context}\n\nQ: {question}"
+    prompt = (
+        "You are a technical knowledgebase AI assistant. Answer the following question using the "
+        "information provided, in a friendly and concise manner. Use bullet points for lists;"
+        "and use Bahasa Indonesia to answer, as this will be used by Bahasa speakers\n\n"
+        "Documentation:\n"
+        f"{context}\n\n"
+        "Question: " + question
+    )
     
     # Use your chosen model here. For example, using Ollama with tinyllama:
-    response = ollama.chat(model="tinyllama", messages=[{"role": "user", "content": prompt}])
+    response = ollama.chat(model="mistral", messages=[{"role": "user", "content": prompt}])
     return response["message"]["content"]
