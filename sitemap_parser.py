@@ -18,7 +18,10 @@ def parse_sitemap(sitemap_path):
     for url in root.findall("s:url", ns):
         loc = url.find("s:loc", ns)
         if loc is not None and loc.text:
-            urls.append(loc.text.strip())
+            url_text = loc.text.strip()
+            # Only include URLs that start with the specified prefix
+            if url_text.startswith("https://docs.dewacloud.com/docs/"):
+                urls.append(url_text)
     return urls
 
 def fetch_document_text(url):
@@ -82,3 +85,4 @@ def build_vector_store(sitemap_path, model_name="all-MiniLM-L6-v2"):
 if __name__ == "__main__":
     sitemap_file = "sitemap.xml"  # Adjust the path if needed
     build_vector_store(sitemap_file)
+    
